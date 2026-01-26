@@ -17,7 +17,7 @@
         <serenity.cucumber.version>1.9.46</serenity.cucumber.version>
 
         <webdriver.manager.version>3.6.1</webdriver.manager.version>
-        <assertj.version>3.11.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <jackson.version>2.9.9.2</jackson.version>
         <javafaker.version>0.18</javafaker.version>
         <logback.version>1.2.3</logback.version>
